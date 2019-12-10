@@ -12,6 +12,6 @@ package com.bgs.demo11;
 public class ads {
 
     public static void main(String[] args) {
-        System.out.println("323123");
+        System.out.println("123");
     }
 }
